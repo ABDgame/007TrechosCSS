@@ -1,3 +1,5 @@
+if (localStorage.getItem("token") == null){
+}
 let userLogado = JSON.parse(localStorage.getItem("userLogado"));
 
 let logado = document.querySelector("#logado");
