@@ -11,3 +11,13 @@ body
     background-size: cover;
     background-attachment: fixed;
 }
+.container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-top: 100px;
+}
+.card{
+    background-color: #ffffff80;
+    padding: 30px;
+}
